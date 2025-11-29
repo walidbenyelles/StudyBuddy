@@ -25,5 +25,5 @@ Le projet présente l’idée d’une app simple pour organiser les séances d�
 
 ## Aperçu
 
-- Live demo : (à compléter après déploiement)
+- Live demo : (https://stuudybuddy.netlify.app/)
 - Code source : ce dépôt GitHub
